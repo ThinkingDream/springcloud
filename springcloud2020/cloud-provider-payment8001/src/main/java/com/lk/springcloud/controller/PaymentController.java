@@ -3,10 +3,7 @@ package com.lk.springcloud.controller;
 import com.lk.springcloud.entities.CommonResult;
 import com.lk.springcloud.entities.Payment;
 import com.lk.springcloud.service.PaymentService;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
 
@@ -20,9 +17,9 @@ public class PaymentController {
     PaymentService paymentService;
 
     @PostMapping(value = "/payment/create")
-    public CommonResult<Payment> create(Payment payment){
+    public CommonResult<Integer> create(@RequestBody Payment payment){
         int result = paymentService.create(payment);
-        return new CommonResult<Payment>(200,"success");
+        return new CommonResult<Integer>(200,"success",result);
     }
 
     @GetMapping(value = "/payment/get/{id}")
