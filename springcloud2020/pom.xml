@@ -7,6 +7,8 @@
     <groupId>com.lk.springcloud</groupId>
     <artifactId>springcloud2020</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
     <modules>
         <module>cloud-provider-payment8001</module>
         <module>cloud-consumer-order80</module>
@@ -18,30 +20,11 @@
         <module>cloud-provider-payment8004</module>
         <module>cloud-consumer-consul-order80</module>
         <module>cloud-provider-consul-payment8006</module>
+        <module>cloud-consumer-feign-order80</module>
+        <module>cloud-consumer-feign-hystrix-order80</module>
+        <module>cloud-gateway-gateway9527</module>
     </modules>
-    <dependencies>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-web</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-commons</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-context</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-autoconfigure</artifactId>
-        </dependency>
-    </dependencies>
-    <packaging>pom</packaging>
+
     <!--统一管理jar包版本-->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

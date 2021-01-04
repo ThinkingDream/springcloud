@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.lk.springcloud:cloud-api-commons:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/MavenRepository/com/lk/springcloud/cloud-api-commons/1.0-SNAPSHOT/cloud-api-commons-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/cloud-api-commons/cloud-api-commons-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://D:/MavenRepository/com/lk/springcloud/cloud-api-commons/1.0-SNAPSHOT/cloud-api-commons-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/cloud-api-commons/cloud-api-commons-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://D:/MavenRepository/com/lk/springcloud/cloud-api-commons/1.0-SNAPSHOT/cloud-api-commons-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
