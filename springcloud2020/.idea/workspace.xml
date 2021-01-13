@@ -19,122 +19,52 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5485331d-95da-4506-8a23-69574b1705b2" name="Default Changelist" comment="添加order">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lk_springcloud_cloud_api_commons_1_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_9_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_core_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/cloud-consumer-feign-hystrix-order80.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/lk/springcloud/OrderHystrixMain80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/lk/springcloud/controller/OrderHystirxController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/lk/springcloud/service/PaymentFallbackService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java/com/lk/springcloud/service/PaymentHystrixService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/lk/springcloud/OrderFeignMain80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/lk/springcloud/config/FeignConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/lk/springcloud/controller/OrderFeignController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/java/com/lk/springcloud/service/PaymentFeignService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/lk/springcloud/GateWayMain9527.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/lk/springcloud/config/GateWayConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/lk/springcloud/filter/MyLogGateWayFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docment/SpringCloud .xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../docment/SpringCloud .xmind" afterDir="false" />
+    <list default="true" id="5485331d-95da-4506-8a23-69574b1705b2" name="Default Changelist" comment="添加多个模块">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/cloud-config-center-3344.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/java/com/lk/springcloud/ConfigCenterMain3344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/cloud-config-client-3355.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/lk/springcloud/ConfigClientMain3355.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/lk/springcloud/controller/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/lk/springcloud/ConfigClientMain3366.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/lk/springcloud/controller/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/src/main/java/com/lk/springcloud/HystrixDashboardMain9001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/lk/springcloud/PaymentHystrixMain8001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/lk/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/com/lk/springcloud/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_5_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_5_7.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/lk/springcloud/springcloud/springcloud/entities/CommonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/lk/springcloud/entities/CommonResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/lk/springcloud/springcloud/springcloud/entities/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/lk/springcloud/entities/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/lk/springcloud/springcloud/springcloud/entities/CommonResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/lk/springcloud/springcloud/springcloud/entities/Payment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-consul-order80/cloud-consumer-consul-order80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-consul-order80/cloud-consumer-consul-order80.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/lk/springcloud/springcloud/myrule/MySelfRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/lk/springcloud/myrule/MySelfRule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/lk/springcloud/springcloud/springcloud/OrderMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/lk/springcloud/OrderMain80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/lk/springcloud/springcloud/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/lk/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/lk/springcloud/springcloud/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/lk/springcloud/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/lk/springcloud/springcloud/springcloud/lb/LoadBalancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/lk/springcloud/lb/LoadBalancer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/lk/springcloud/springcloud/springcloud/lb/MyLB.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/lk/springcloud/lb/MyLB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/cloud-consumerzk-order80.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/cloud-consumerzk-order80.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/lk/springcloud/springcloud/springcloud/OrderZKMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/lk/springcloud/OrderZKMain80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/lk/springcloud/springcloud/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/lk/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/lk/springcloud/springcloud/springcloud/controller/OrderZKController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/lk/springcloud/controller/OrderZKController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/cloud-eureka-server7001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/cloud-eureka-server7001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/lk/springcloud/springcloud/springcloud/EurekaMain7001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/java/com/lk/springcloud/EurekaMain7001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/cloud-eureka-server7002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7002/cloud-eureka-server7002.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/lk/springcloud/springcloud/springcloud/EurekaMain7002.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/lk/springcloud/EurekaMain7002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-consul-payment8006/cloud-provider-consul-payment8006.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-consul-payment8006/cloud-provider-consul-payment8006.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-consul-payment8006/src/main/java/com/lk/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-consul-payment8006/src/main/java/com/lk/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/cloud-provider-payment8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/cloud-provider-payment8001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lk/springcloud/springcloud/springcloud/PaymentMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lk/springcloud/PaymentMain8001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lk/springcloud/springcloud/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lk/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lk/springcloud/springcloud/springcloud/controller/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lk/springcloud/controller/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lk/springcloud/springcloud/springcloud/dao/PaymentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lk/springcloud/dao/PaymentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lk/springcloud/springcloud/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lk/springcloud/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lk/springcloud/springcloud/springcloud/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/lk/springcloud/service/impl/PaymentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/lk/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/lk/springcloud/service/impl/PaymentServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/cloud-provider-payment8002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/cloud-provider-payment8002.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/lk/springcloud/springcloud/springcloud/PaymentMain8002.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/lk/springcloud/PaymentMain8002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/lk/springcloud/springcloud/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/lk/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/lk/springcloud/springcloud/springcloud/dao/PaymentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/lk/springcloud/dao/PaymentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/lk/springcloud/springcloud/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/lk/springcloud/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/lk/springcloud/springcloud/springcloud/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/lk/springcloud/service/impl/PaymentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/mapper/PaymentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/cloud-provider-payment8004.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8004/cloud-provider-payment8004.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/lk/springcloud/springcloud/springcloud/PaymentMain8004.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/lk/springcloud/PaymentMain8004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/lk/springcloud/springcloud/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8004/src/main/java/com/lk/springcloud/controller/PaymentController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud2020.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +74,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -179,12 +110,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/lk/springcloud" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-config-client-3366/src/main/resources" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.49425286" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.28440368" />
   </component>
   <component name="ReactorSettings">
@@ -192,18 +123,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lk.springcloud" />
       <recent name="com.lk.springcloud.filter" />
       <recent name="com.lk.springcloud.config" />
-      <recent name="com.lk.springcloud" />
       <recent name="com.lk.springcloud.service" />
       <recent name="com.lk.springcloud.controller" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\springcloud\springcloud2020\cloud-config-client-3366\src\main\resources" />
       <recent name="E:\project\springcloud\springcloud2020\cloud-consumer-feign-hystrix-order80\src\main\java" />
       <recent name="E:\project\springcloud\springcloud2020\cloud-provider-consul-payment8006\src\main\java\com\lk\springcloud" />
       <recent name="E:\project\springcloud\springcloud2020\cloud-provider-consul-payment8006\src\main\resources" />
       <recent name="E:\project\springcloud\springcloud2020\cloud-consumerconsul-order80\src\main\java\com\lk" />
-      <recent name="E:\project\springcloud\springcloud2020\cloud-consumerconsul-order\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -213,7 +144,40 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.GateWayMain9527">
+  <component name="RunManager" selected="Spring Boot.ConfigClientMain3366">
+    <configuration name="ConfigCenterMain3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-config-center-3344" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lk.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.springcloud.ConfigCenterMain3344" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientMain3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-config-client-3355" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lk.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.springcloud.ConfigClientMain3355" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientMain3366" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client-3366" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.springcloud.ConfigClientMain3366" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloud-eureka-server7001" />
       <extension name="coverage">
@@ -223,6 +187,13 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.springcloud.EurekaMain7002" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -240,6 +211,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HystrixDashboardMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-hystrix-dashboard9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.springcloud.HystrixDashboardMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OrderConsumerMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-consul-order80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.springcloud.OrderConsumerMain80" />
@@ -247,14 +225,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-feign-order80" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lk.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.springcloud.OrderFeignMain80" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -281,6 +253,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-hystrix-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.springcloud.PaymentHystrixMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloud-provider-payment8001" />
       <extension name="coverage">
@@ -294,14 +273,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-provider-payment8002" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lk.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.springcloud.PaymentMain8002" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -323,11 +296,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.GateWayMain9527" />
+        <item itemvalue="Spring Boot.ConfigCenterMain3344" />
+        <item itemvalue="Spring Boot.ConfigClientMain3355" />
         <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Spring Boot.GateWayMain9527" />
         <item itemvalue="Spring Boot.PaymentMain8001" />
-        <item itemvalue="Spring Boot.PaymentMain8002" />
-        <item itemvalue="Spring Boot.OrderFeignMain80" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +317,17 @@
       <workItem from="1609317008949" duration="6516000" />
       <workItem from="1609376516578" duration="15088000" />
       <workItem from="1609399204035" duration="3604000" />
-      <workItem from="1609730432938" duration="11135000" />
+      <workItem from="1609730432938" duration="13801000" />
+      <workItem from="1609839428338" duration="16000" />
+      <workItem from="1609839461214" duration="4000" />
+      <workItem from="1609839469451" duration="599000" />
+      <workItem from="1610420814398" duration="806000" />
+      <workItem from="1610422197422" duration="111000" />
+      <workItem from="1610422387262" duration="15000" />
+      <workItem from="1610422566176" duration="29000" />
+      <workItem from="1610422758278" duration="150000" />
+      <workItem from="1610423295018" duration="11404000" />
+      <workItem from="1610500868691" duration="7303000" />
     </task>
     <task id="LOCAL-00001" summary="添加order">
       <created>1609322215563</created>
@@ -353,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609322215587</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加多个模块">
+      <created>1609753101074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609753101074</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,7 +364,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="添加order" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加order" />
+    <MESSAGE value="添加多个模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加多个模块" />
   </component>
   <component name="WindowStateProjectService">
     <state x="236" y="124" width="744" height="433" key="#Notifications" timestamp="1609399452376">
@@ -409,42 +400,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="541" y="258" key="DetectedRootsChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1609398537695" />
-    <state x="366" y="70" key="FileChooserDialogImpl" timestamp="1609398534702">
+    <state x="366" y="70" key="FileChooserDialogImpl" timestamp="1609840029746">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="366" y="70" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609398534702" />
-    <state width="942" height="223" key="GridCell.Tab.0.bottom" timestamp="1609752492982">
+    <state x="366" y="70" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609840029746" />
+    <state width="803" height="370" key="GridCell.Tab.0.bottom" timestamp="1610510000507">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="942" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609752492982" />
-    <state width="942" height="223" key="GridCell.Tab.0.center" timestamp="1609752492982">
+    <state width="803" height="370" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610510000507" />
+    <state width="803" height="370" key="GridCell.Tab.0.center" timestamp="1610510000507">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="942" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609752492982" />
-    <state width="942" height="223" key="GridCell.Tab.0.left" timestamp="1609752492982">
+    <state width="803" height="370" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610510000507" />
+    <state width="803" height="370" key="GridCell.Tab.0.left" timestamp="1610510000507">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="942" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609752492982" />
-    <state width="942" height="223" key="GridCell.Tab.0.right" timestamp="1609752492982">
+    <state width="803" height="370" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610510000507" />
+    <state width="803" height="370" key="GridCell.Tab.0.right" timestamp="1610510000507">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="942" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609752492982" />
-    <state width="942" height="223" key="GridCell.Tab.1.bottom" timestamp="1609752492982">
+    <state width="803" height="370" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610510000507" />
+    <state width="803" height="370" key="GridCell.Tab.1.bottom" timestamp="1610510000507">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="942" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609752492982" />
-    <state width="942" height="223" key="GridCell.Tab.1.center" timestamp="1609752492982">
+    <state width="803" height="370" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610510000507" />
+    <state width="803" height="370" key="GridCell.Tab.1.center" timestamp="1610510000507">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="942" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1609752492982" />
-    <state width="942" height="223" key="GridCell.Tab.1.left" timestamp="1609752492982">
+    <state width="803" height="370" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1610510000507" />
+    <state width="803" height="370" key="GridCell.Tab.1.left" timestamp="1610510000507">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="942" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1609752492982" />
-    <state width="942" height="223" key="GridCell.Tab.1.right" timestamp="1609752492982">
+    <state width="803" height="370" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1610510000507" />
+    <state width="803" height="370" key="GridCell.Tab.1.right" timestamp="1610510000507">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="942" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1609752492982" />
+    <state width="803" height="370" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1610510000507" />
     <state width="962" height="246" key="GridCell.Tab.2.bottom" timestamp="1609407216541">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -465,14 +456,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="365" y="66" width="733" height="595" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1609395900556" />
-    <state x="97" y="0" width="1145" height="728" key="SettingsEditor" timestamp="1609747000970">
+    <state x="97" y="0" width="1145" height="728" key="SettingsEditor" timestamp="1609840055470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="97" y="0" width="1145" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609747000970" />
+    <state x="97" y="0" width="1145" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609840055470" />
     <state x="359" y="60" key="SpringBootCustomization" timestamp="1609394891520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="359" y="60" key="SpringBootCustomization/0.0.1366.728@0.0.1366.728" timestamp="1609394891520" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1609753115954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609753115954" />
     <state x="482" y="140" key="chooseDestDirectoryDialog" timestamp="1609752207898">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -481,10 +476,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="385" y="67" width="596" height="594" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1609747345887" />
-    <state x="107" y="37" width="1259" height="691" key="new project wizard" timestamp="1609751611999">
+    <state x="107" y="37" width="1259" height="691" key="new project wizard" timestamp="1610507197814">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="107" y="37" width="1259" height="691" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1609751611999" />
+    <state x="107" y="37" width="1259" height="691" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1610507197814" />
     <state x="339" y="157" key="run.anything.popup" timestamp="1609383461639">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

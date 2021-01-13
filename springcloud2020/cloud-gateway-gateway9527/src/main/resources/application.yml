@@ -29,7 +29,7 @@ spring:
 eureka:
   instance:
     prefer-ip-address: true
-    ip-address: cloud-gateway-service
+    instance-id: cloud-gateway-service
   client: #服务提供者provider注册进eureka服务列表内
     service-url:
       register-with-eureka: true
